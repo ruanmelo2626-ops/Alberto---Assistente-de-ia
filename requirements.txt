@@ -1,0 +1,10 @@
+vosk
+sounddevice
+edge-tts
+pygame
+pyautogui
+pygetwindow
+psutil
+pyperclip
+
+pyinstaller

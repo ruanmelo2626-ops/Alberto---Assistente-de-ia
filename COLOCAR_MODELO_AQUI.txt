@@ -1,0 +1,1 @@
+Copie para esta pasta a pasta modelo do projeto anterior, mantendo o caminho modelo/vosk-model-pt-fb-v0.1.1-20220516_2113.

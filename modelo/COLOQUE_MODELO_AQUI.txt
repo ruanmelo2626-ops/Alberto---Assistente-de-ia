@@ -1,0 +1,1 @@
+Extraia aqui o conteúdo do modelo Vosk pt-BR. Consulte README.md.

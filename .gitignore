@@ -1,0 +1,24 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Ambientes virtuais
+venv/
+.venv/
+env/
+
+# Modelo Vosk: mantido localmente
+/modelo/*
+!/modelo/README
+!/modelo/COLOQUE_MODELO_AQUI.txt
+
+# Logs e memória
+workspace/logs/
+workspace/memoria/
+
+# Temporários
+*.tmp
+*.bak
+.env
